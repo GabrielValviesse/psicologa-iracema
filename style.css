@@ -158,7 +158,7 @@ body {
     width: 140px;
 }
 
-.container {
+.container1 {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
@@ -168,18 +168,18 @@ body {
     border-radius: 15px;
 }
 
-.container ul {
+.container1 ul {
     list-style-type: none;
     padding: 0;
 }
 
-.container li {
+.container1 li {
     margin: 10px 0;
     font-size: 18px;
     font-weight: bold;
 }
 
-.container li::before {
+.container1 li::before {
     content: "\2022"; /* Cria um marcador de ponto • antes de cada item da lista */
     margin-right: 5px;
     color: #333;
